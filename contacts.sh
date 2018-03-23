@@ -20,7 +20,7 @@
 VERSION=0.1
 
 # Firebase Realtime Database URL
-# Don't Remove /contacts.json
+# Replace it with your Database URL - Don't Remove /contacts.json
 DBURL="https://contactscli.firebaseio.com/contacts.json"
 
 ## File name
