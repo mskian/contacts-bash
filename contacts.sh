@@ -11,7 +11,7 @@
 # Requirements:
 #   curl, jq
 # Description:
-#   Contact Storage using Firebase Reatime Database
+#   Contact Storage using Firebase Reatime Database - https://github.com/mskian/contacts-bash
 # -----------------------------------------------------------------------------
 
 # -----------------------------------------------------------------------------
