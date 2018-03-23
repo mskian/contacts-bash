@@ -42,10 +42,14 @@
 
 - Download the Script
 
-- open `contacts.sh`
+```
+wget --no-check-certificate https://gist.githubusercontent.com/mskian/4a0aa14382dd53c488b1deb1a92a37cd/raw/cab4c23508362570b0c8aabb8af56a3e152b6e84/contacts.sh
+```
+
+
+- open `contacts.sh` File
 - Find this line `# Firebase Realtime Database URL` & Update your Database URL
-- Save the File
-- Save & Set Permission the Execute the Script
+- Save the File & Set Permission the Execute the Script
 
 ```
 chmod +x contacts.sh
