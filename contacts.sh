@@ -60,9 +60,14 @@ read -r usrnumber
 
 echo -e "\\n"
 
- # If no URL you will see this Alert message
+ # If no Inputs you will see this Alert message
   if [[ ! $usrname ]]; then
-    echo -e "Error Input Missing"
+    echo -e "\\033[1;31m Error: person Name is Missing \\033[0m \\n"
+    exit 1
+fi
+
+  if [[ ! $usrnumber ]]; then
+    echo -e "\\033[1;31m Error: Mobile/Phone Number is Missing \\033[0m \\n"
     exit 1
   fi
 
