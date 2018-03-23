@@ -21,7 +21,7 @@ VERSION=0.1
 
 # Firebase Realtime Database URL
 # Don't Remove /contacts.json
-DBURL="https://example.firebaseio.com/contacts.json"
+DBURL="https://contactscli.firebaseio.com/contacts.json"
 
 ## File name
 SCRIPTNAME=$(basename "$0")
