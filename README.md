@@ -84,6 +84,9 @@ chmod +x contacts.sh
 ./contacts.sh -v
 ```
 
+## Security
+
+Don't share your Firebase Database URL in Public
 
 ## Contribute
 
