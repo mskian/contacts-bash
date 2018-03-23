@@ -49,7 +49,7 @@ wget --no-check-certificate https://gist.githubusercontent.com/mskian/4a0aa14382
 
 - open `contacts.sh` File
 - Find this line `# Firebase Realtime Database URL` & Update your Database URL
-- Save the File & Set Permission the Execute the Script
+- Save the File & Set Permission to Execute the Script
 
 ```
 chmod +x contacts.sh
