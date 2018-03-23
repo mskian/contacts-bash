@@ -31,8 +31,6 @@ SCRIPTNAME=$(basename "$0")
 # Get Full Contact List
 get_contacts(){
 
-#echo "Usage :  $SCRIPTNAME -c"
-
 echo -e "\\n"
 echo -e "\\033[1;32m My Personal Contact Details \\033[0m"
 echo -e "\\n"
