@@ -43,7 +43,7 @@
 - Download the Script
 
 ```
-wget --no-check-certificate https://gist.githubusercontent.com/mskian/4a0aa14382dd53c488b1deb1a92a37cd/raw/cab4c23508362570b0c8aabb8af56a3e152b6e84/contacts.sh
+wget --no-check-certificate https://gist.githubusercontent.com/mskian/4a0aa14382dd53c488b1deb1a92a37cd/raw/67e9b330b733cca9285c3ac640fdd09128aa6602/contacts.sh
 ```
 
 
